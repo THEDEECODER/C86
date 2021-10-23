@@ -15,8 +15,7 @@ function new_image()
     });
 	
 }
-playSound.fromURL(bdayaudio.mp3);
 
-function playSound(){
+function playsound(){
 	x.play();
 }
